@@ -1,6 +1,6 @@
 SSInsta - SS Instagram download all your Instagram videos, stories and photos in high resolution and original size by downloading them. Get it on your computer, iOS or Android smartphone.
 
-# SSSINSTAGRAM instagram Downloader to use <a href="https://ssinsta.app/">instagram Downloader</a> for support and bug reports
+# SSSINSTAGRAM instagram Downloader to use <a href="https://ssinsta.app/" rel="referrer follow" >instagram Downloader</a> for support and bug reports
 
 # SSInsta
 
