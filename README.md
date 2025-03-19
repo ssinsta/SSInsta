@@ -2,7 +2,7 @@ SSInsta - SS Instagram download all your Instagram videos, stories and photos in
 
 # SSSINSTAGRAM instagram Downloader to use <a href="https://ssinsta.io/" rel="referrer follow" >instagram Downloader</a> for support and bug reports
 
-to use <a href=" https://about.me/ssinsta">about tracker</a>
+to use <a href="https://about.me/ssinsta"> about tracker</a>
 
 # SSInsta
 
