@@ -2,6 +2,8 @@ SSInsta - SS Instagram download all your Instagram videos, stories and photos in
 
 # SSSINSTAGRAM instagram Downloader to use <a href="https://ssinsta.io/" rel="referrer follow" >instagram Downloader</a> for support and bug reports
 
+to use <a href=" https://about.me/ssinsta">about tracker</a>
+
 # SSInsta
 
 A tool for making a twitter bot using Google Spreadsheets. Because the software runs in Google Spreadsheets, and it requires the interaction of a specifically-constructed sheet with the underlying code specific to that sheet, this GitHub repo exists 
